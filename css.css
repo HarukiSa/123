@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Combo&display=swap');
+body{
+    background:url(back.png);
+}
+
+.youtube{
+    height: 15%;
+    position: absolute;
+    left: 280px;
+    top: 160px;
+}
+.youtm{
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    left: 180px;
+    top: 390px;
+}
+.spot{
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    left: 280px;
+    top: 519px;
+}
+.sound{
+    height: 70px;
+    width: 85px;
+    position: absolute;
+    left: 382px;
+    top: 408px;
+}
+.appm{
+    height: 60px;
+    width: 110px;
+    position: absolute;
+    top: 500px;
+}
+
+.magi{
+    background: no-repeat;
+    
+    height: 50%;
+    position: absolute;
+    right: 60px;
+    top: 60px;
+    box-shadow: 0 0 15px rgba(0,0,0,1);
+}
+.text{
+    font-family: 'Combo', cursive;
+    height: 280px;
+    width: 400px;
+    position: absolute;
+    top: 500px;
+    right: 60px;
+}
